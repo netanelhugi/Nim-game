@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "gnim.h"
+#include "nim.h"
 #define true 1
 #define false 0
 
