@@ -10,5 +10,5 @@ For more info about the game: https://en.wikipedia.org/wiki/Nim
 
 ## How to compile:
 ```
-g++ main.cpp
+gcc main.c
 ./a.out
